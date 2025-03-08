@@ -9,7 +9,7 @@ load_dotenv()
 # Define your Twitter credentials
 USERNAME = os.getenv('USERNAME', '@KVenkatesh65977')
 EMAIL = os.getenv('EMAIL', 'kunchalavenkatesh17@gmail.com')
-PASSWORD = os.getenv('PASSWORD', '@Kvenkatesh1209')
+PASSWORD = os.getenv('PASSWORD',)
 
 # Initialize the client
 client = Client('en-US')
